@@ -1,2 +1,2 @@
 # WhatsApp-Web-Clone
- Created a FullStack Functional Web App from Scratch
+ Whatsapp Clone provides an in depth view of implementation on how to create a full-stack web application from scratch.
